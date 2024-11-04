@@ -1,5 +1,5 @@
 body {
-  background-color: ffee99;
+  background-color: rgb(53, 2, 2);
   text-align: center
 }
 img {
@@ -8,23 +8,23 @@ img {
 h1 {
   font-size: 30px;
   font-family: 'Roboto', sans-serif;
-  color: 03045e
+  color: rgb(48, 3, 3)
 }
 h2 {
   font-size: 20px;
-  color: 03045e;
   font-family: 'Roboto', sans-serif;
+  color: rgb(39, 102, 24)
 }
 p {
-  font-family: 'Roboto', sans-serif;
   font-size: 18px;
-  color: 03045e
+  font-family: 'Roboto', sans-serif;
+  color: rgb(48, 3, 3)
 }
 ul {
   padding-left: 0px;
 }
 .card-white {
-  background-color: white;
+  background-color: rgb(184, 184, 184);
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 15px;
@@ -39,9 +39,14 @@ li {
   list-style: none;
 }
 i {
-  font-size: 35px;
-  color: 03045e;
+  font-size: 40px;
+
+  color: rgb(48, 3, 3)
 }
+
 i:hover {
-  color: blueviolet;
+  color: rgb(223, 73, 73);
+}
+a {
+  gap: 15px;
 }
