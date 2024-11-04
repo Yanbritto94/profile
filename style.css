@@ -37,6 +37,8 @@ ul {
 }
 li {
   list-style: none;
+  display: inline;
+  padding: 10px;
 }
 i {
   font-size: 40px;
@@ -48,5 +50,5 @@ i:hover {
   color: rgb(223, 73, 73);
 }
 a {
-  gap: 15px;
+  text-decoration: none;
 }
